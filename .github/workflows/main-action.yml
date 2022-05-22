@@ -7,4 +7,4 @@ on:
 
 jobs:
   call-workflow:
-    uses: .github/workflows/steps/step1.yml@master
+    uses: .github/workflows/step1.yml@master
