@@ -7,5 +7,4 @@ on:
 
 jobs:
   call-workflow:
-    uses: /steps/step1.yml
-    
+    uses: .github/workflows/steps/step1.yml
