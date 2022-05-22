@@ -1,0 +1,11 @@
+name: Call 
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  call-workflow:
+    uses: /steps/step1.yml
+    
