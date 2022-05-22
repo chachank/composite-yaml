@@ -3,7 +3,7 @@ name: Call
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   call-workflow:
