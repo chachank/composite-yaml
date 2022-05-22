@@ -1,7 +1,7 @@
 name: Call 
 
 on:
-  pull_request:
+  push:
     branches:
       - main
 
